@@ -1,0 +1,10 @@
+                        Instituto Tecnologico de Celaya
+                              Materias Disponibles
+Clave     	Nombre                                  	Creditos
+111A      	Calculo Integral                        	      12
+111B      	Calculo Diferencial                     	       6
+222A      	Investigacion de Operaciones            	      14
+222B      	Circuitos Electricos                    	      24
+333A      	Programacion Basica                     	       3
+333B      	Programacion Avanzada                   	      45
+AM25      	PROGRA OO                               	       5

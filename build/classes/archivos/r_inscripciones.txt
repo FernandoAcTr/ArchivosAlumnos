@@ -1,0 +1,24 @@
+                                                 Instituto Tecnologico de Celaya
+                                                         Materias Inscritas
+Alumno    	Especialidad                                      	Materia	Nombre
+
+11111111  	Sistemas                                          	111A	Calculo Integral                                  	    12
+                                                            	111B	Calculo Diferencial                               	     6
+                                                            	222A	Investigacion de Operaciones                      	    14
+                                                            	
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+22222222  	Licenciatura en Administracion                    	111A	Calculo Integral                                  	    12
+                                                            	333B	Programacion Avanzada                             	    45
+                                                            	333A	Programacion Basica                               	     3
+                                                            	
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+33333333  	Mecatronica                                       	111B	Calculo Diferencial                               	     6
+                                                            	333A	Programacion Basica                               	     3
+                                                            	
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+79030017  	EspecialidadOchenta                               	AM25	PROGRA OO                                         	     5
+                                                            	111A	Calculo Integral                                  	    12
+                                                            	111B	Calculo Diferencial                               	     6
+                                                            	222A	Investigacion de Operaciones                      	    14
+                                                            	
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------

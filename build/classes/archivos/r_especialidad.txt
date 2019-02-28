@@ -1,0 +1,9 @@
+                        Instituto Tecnologico de Celaya
+                             Especialidades Disponibles
+Clave     	Nombre                                  
+1         	Sistemas                                                    
+2         	Licenciatura en Administracion                              
+3         	Gastronomia                                                 
+4         	Mecatronica                                                 
+5         	Electronica                                                 
+80        	EspecialidadOchenta                                         

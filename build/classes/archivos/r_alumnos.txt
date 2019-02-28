@@ -1,0 +1,9 @@
+                                  Instituto Tecnologico de Celaya
+                                           Alumnos Inscritos
+Numero de Control   	Nombre                                  	Especialidad	
+11111111            	Fernando Acosta                         	   1
+12040603            	Juan                                    	   3
+22222222            	Fernanda Rico                           	   2
+33333333            	Juan Melgar                             	   4
+44444444            	Alumno4                                 	   3
+79030017            	Chinguis Morris                         	  80
